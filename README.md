@@ -37,6 +37,8 @@ Please make sure to update tests as appropriate.
 
 • Make gui look better 
 
+• Random userAgent every send
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
