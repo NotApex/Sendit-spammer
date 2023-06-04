@@ -1,5 +1,3 @@
-# Sendit-spammer
-A super fast spammer for sendit uses multi threading and proxys to avoid rate limiting
 # spamit
 
 Spamit is a tool used for spamming people's sendit we use multi threading and proxys to ensure the fastest spams and without being rare limited 
