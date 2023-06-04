@@ -28,6 +28,10 @@ to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
+## Todo list
+• Make spamming constant with the number you enter
+• Make gui look better 
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
