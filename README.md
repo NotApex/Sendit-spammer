@@ -34,6 +34,7 @@ Please make sure to update tests as appropriate.
 
 ## Todo list
 • Make spamming constant with the number you enter
+
 • Make gui look better 
 
 ## License
