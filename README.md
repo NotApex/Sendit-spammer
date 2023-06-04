@@ -16,7 +16,8 @@ And after installing all necessary dependantcys you can start spamming
 Spamming the fuck out of people's sendit
 
 ## Showcase
-![](https://github.com/Sendit-spammer/spamit-showcase.gif)
+
+![](https://raw.githubusercontent.com/NotApex/Sendit-spammer/main/spamit-showcase.gif)
 
 ## Contributing
 
