@@ -7,6 +7,10 @@ Spamit is a tool used for spamming people's sendit we use multi threading and pr
 Just type 
 
 ```bash
+git clone https://github.com/NotApex/Sendit-spammer/
+```
+
+```bash
 bash setup.sh
 ```
 And after installing all necessary dependantcys you can start spamming 
