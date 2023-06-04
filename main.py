@@ -18,9 +18,9 @@ params = {
 }
 
 print('.----------------.')
-print('| Made By ExamV1 |')
+print('| Made By Apex   |')
 print("'----------------'")
-print('This will spam a bunch of random trivia questions to the chosen Sendit')
+print('This will spam a bunch of random trivia questions or custom text to the chosen Sendit')
 sticker_link = input("\nEnter the Sendit link: ")
 match = re.search(r's/([a-f\d-]+)', sticker_link)
 sticker_id = match.group(1)
