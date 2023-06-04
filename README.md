@@ -15,6 +15,9 @@ And after installing all necessary dependantcys you can start spamming
 
 Spamming the fuck out of people's sendit
 
+## Showcase
+![](https://github.com/Sendit-spammer/spamit-showcase.gif
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
