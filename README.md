@@ -41,4 +41,4 @@ Please make sure to update tests as appropriate.
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[GNU](https://github.com/NotApex/Sendit-spammer/blob/main/LICENSE)
