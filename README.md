@@ -32,13 +32,13 @@ to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-## Todo list
-• Make spamming constant with the number you enter
+## Update log
+• added random useragent to prevent tracking 
+• added random shadow token to prevent tracking
+• added custom thread amount
 
-• Make gui look better 
-
-• Random userAgent every send
-
+## what needs fixing 
+• custom spam only sends 3 working on a fix
 ## License
 
 [GNU](https://github.com/NotApex/Sendit-spammer/blob/main/LICENSE)
