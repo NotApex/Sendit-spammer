@@ -1,26 +1,29 @@
-#!/bin/bash
+# Update apt
+apt update
+apt upgrade
 
 # Install necessary packages
-pkg update
-pkg install -y clang libxml2 libxslt python
-pkg update -y && pkg upgrade -y
+apt update
+apt install -y clang libxml2
+pkg install -y python
+pkg install -y libxslt python3-pip python3-dev openssl-dev libffi-dev
 
 # Install lxml dependencies
-pip install -y libxml2-dev libxslt-dev
+apt install -y libxml2-dev libxslt-dev
 
-# Install pip
-curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
-python get-pip.py
+# Install aiohttp
+pip3 install --upgrade pip
+pip3 install --trusted-host pypi.python.org --trusted-host files.pythonhosted.org --trusted-host pypi.org aiohttp
 
 # Install dependencies
 apt-get update
 apt-get install -y libxml2 libxslt
 
 # Install lxml from the repository
-pip install lxml
+pip3 install --trusted-host pypi.python.org --trusted-host files.pythonhosted.org --trusted-host pypi.org lxml
 
 # Install other Python packages
-pip install -r requirements.txt
+pip3 install --trusted-host pypi.python.org --trusted-host files.pythonhosted.org --trusted-host pypi.org -r requirements.txt
 
 # Start main.py
 python main.py
