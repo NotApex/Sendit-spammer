@@ -33,8 +33,11 @@ to discuss what you would like to change.
 Please make sure to update tests as appropriate.
 
 ## Update log
+
 • added random useragent to prevent tracking 
+
 • added random shadow token to prevent tracking
+
 • added custom thread amount
 
 ## what needs fixing 
