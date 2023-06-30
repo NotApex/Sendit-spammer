@@ -17,7 +17,7 @@ And after installing all necessary dependantcys you can start spamming
 
 ## Usage
 
-Spamming the fuck out of people's sendit
+Spamming people's sendit
 
 ## Showcase
 
