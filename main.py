@@ -1,3 +1,5 @@
+# huge thanks to ExamV1 for the Trivi spam sc
+
 import random
 import re
 import lxml.html
