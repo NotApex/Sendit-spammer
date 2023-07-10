@@ -1,3 +1,6 @@
+huge thanks to exam for the trivia spam sc check him out
+https://github.com/ExamV1/
+
 # spamit
 
 Spamit is a tool used for spamming people's sendit we use multi threading and proxys to ensure the fastest spams and without being rare limited 
