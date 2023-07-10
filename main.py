@@ -1,4 +1,4 @@
-# huge thanks to ExamV1 for the Trivi spam sc
+# huge thanks to ExamV1 for the Trivi spam https://github.com/ExamV1/
 
 import random
 import re
